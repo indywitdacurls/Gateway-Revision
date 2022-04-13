@@ -1,0 +1,57 @@
+* {
+  margin: 1.5;
+  padding: 2;
+  box-sizing: border-box;
+}
+
+body {    
+  background-image: url("AirplanePic.jpg");
+  position: relative;
+  padding-bottom: 25px;
+  min-height:100vh;
+  background-color: lightblue;
+  
+}
+
+nav {
+  margin-bottom: 40px;
+}
+
+ul{
+  position: empty; 
+  left: 50%;
+  list-style-type: none;
+}
+
+li a {
+  text-decoration: none;
+}
+
+h1 {
+  color: orangered;
+  text-align: center;
+  font-family: Verdana;
+  font-style: italic;
+  font-size: 160%;
+  } 
+
+p{
+  text-align: center;
+  color: black;
+  font-size: 90%;
+  font-family: Verdana;
+  background-color: white
+}
+h2 {
+  color: black;
+  background-color: white;  
+  text-align: center;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width:100%;
+  
+}
+
